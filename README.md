@@ -1,7 +1,7 @@
-## Adaptive Chebyshev Graph Neural Network for Cancer Gene Prediction with Multi-Omics Integration
+## Multi-Omics Integration with Spectral GNNs for Identifying Cancer Driver Genes
 
 This repository contains the code for our project,  
-**"Adaptive Chebyshev Graph Neural Network for Cancer Gene Prediction with Multi-Omics Integration,"**  
+**"Multi-Omics Integration with Spectral GNNs for Identifying Cancer Driver Genes,"**  
 submitted to the Journal of Bioinformatics Advances.
 
 
